@@ -16,17 +16,15 @@ The Movie Ratings Dashboard is built with Python and Streamlit using a synthetic
 - Matplotlib (optional)
 
 ## How to Run
-1. Clone the repo:
-   ```bash
+
+# Clone the repo
 git clone https://github.com/LawrenceOtieno/MovieRatingsDashboard.git
 cd MovieRatingsDashboard
 
-## Install Dependencies
-```bash
+# Install dependencies
 pip install -r requirements.txt
 
-## Run the app
-```bash
+# Run the app
 streamlit run app.py
 
 ## Deplyment
