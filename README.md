@@ -8,7 +8,7 @@ The Movie Ratings Dashboard is built with Python and Streamlit using a synthetic
 - Average ratings by genre and director
 - Top-rated movies table
 - Fully synthetic, realistic dataset
-
+  
 ## Tech Stack
 - Python
 - Pandas
