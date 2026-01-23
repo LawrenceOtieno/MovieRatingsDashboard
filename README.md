@@ -54,7 +54,7 @@ plotly
 
 ### Overview
 
-![Overview](assets/overview.PNG)
+![overview](assets/overview.PNG)
 
 ### Ratings by Director
 
