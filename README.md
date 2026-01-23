@@ -67,12 +67,11 @@ Temporal Trends
 
 ### Ratings by Director
 
-![Ratings by Director](assets/ratings_by_director.PNG)
+![RAtings by Director](D:\Projects\MovieRatingsDashboard\assets.PNG)
 
 ### Ratings by Genre
 
-![ratings_by_genre](assets/ratings_by_genre.PNG)
-
+![Ratings by Genre](D:\Projects\MovieRatingsDashboard\assets.PNG)
 
 ### Ratings by Yeargit
 
