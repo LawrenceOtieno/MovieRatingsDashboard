@@ -1,8 +1,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Lajema/M-pesa_performace_dashboard.git
-cd m-pesa-performance-dashboard
+https://github.com/LawrenceOtieno/MovieRatingsDashboard.git
+cd MovieRatingsDashboard
 ```
 
 ### 2. Install dependencies
@@ -33,10 +33,10 @@ plotly
 
 ## 📈 Key Insights Highlighted
 
-* M-Pesa revenue shows consistent recovery and growth trajectory post-2021
-* User growth is stabilising, but transaction intensity per user is rapidly increasing
-* Pochi La Biashara is outperforming traditional merchant solutions in growth rate
-* Rise of cashless micro-economies in Kenya’s informal sector
+* Crime and Sci-Fi genres show higher average ratings compared to other genres
+* Certain directors consistently outperform others in average movie ratings
+* Ratings remain relatively stable across decades with slight upward trends in recent years
+* Synthetic data modeling can effectively simulate real-world analytical scenarios
 
 ---
 
@@ -78,9 +78,9 @@ Suggestions and improvements are welcome. Feel free to raise issues or submit pu
 
 ### ✅ Status
 
-Project is actively maintained and open for further analytical enhancements such as:
+The project is actively maintained and open for further contributions in areas such as:
 
-* County-level analysis
-* Time-series forecasting
-* Predictive merchant adoption modelling
-* API-driven live data integration
+* Expansion of the synthetic dataset (more movies, genres, and directors)
+* Time-series analysis of movie ratings by release year or decade
+* Integration of real-world movie datasets (e.g. IMDb, TMDb) via APIs
+* Predictive modeling of movie ratings based on genre and director
