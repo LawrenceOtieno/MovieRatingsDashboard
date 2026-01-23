@@ -59,23 +59,24 @@ Temporal Trends
 
 ### Movie List (Synthetic)
 
-![Movie List (Synthetic)](D:\Projects\MovieRatingsDashboard\assets.PNG)
+![movie_list_synthetic](assets/movie_list_synthetic.PNG)
 
 ### Overview
 
-![Overview](D:\Projects\MovieRatingsDashboard\assets.PNG)
+![Overview](assets/overview.PNG)
 
 ### Ratings by Director
 
-![RAtings by Director](D:\Projects\MovieRatingsDashboard\assets.PNG)
+![Ratings by Director](assets/ratings_by_director.PNG)
 
 ### Ratings by Genre
 
-![Ratings by Genre](D:\Projects\MovieRatingsDashboard\assets.PNG)
+![ratings_by_genre](assets/ratings_by_genre.PNG)
 
-### Ratings by Year
 
-![Ratings by Year](D:\Projects\MovieRatingsDashboard\assets.PNG)
+### Ratings by Yeargit
+
+![ratings_by_year](assets/ratings_by_year.PNG)
 
 
 ## Feedback
