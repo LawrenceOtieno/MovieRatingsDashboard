@@ -1,6 +1,7 @@
 # Movie Ratings Dashboard 🎬
 
-This project demonstrates a Movie Ratings Dashboard built with Python and Streamlit using a synthetic dataset of 100 movies.
+This project solves data accessibility barriers by providing a centralized, visual interface for complex cinematic datasets. It is designed for data analysts and film researchers and aims to streamline the identification of trends in audience preferences and genre performance.
+The Movie Ratings Dashboard is built with Python and Streamlit using a synthetic dataset of 100 movies.
 
 ## Features
 - Interactive Streamlit dashboard
