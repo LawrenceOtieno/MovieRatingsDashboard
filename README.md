@@ -36,13 +36,13 @@ plotly
 
 ## Key Insights Highlighted
 
-a) Highest-rated movies consistently come from drama and sci-fi genres
+# Highest-rated movies consistently come from drama and sci-fi genres
 
-b) Average ratings vary significantly across release decades
+# Average ratings vary significantly across release decades
 
-c) Viewer engagement spikes during weekends and holidays
+# Viewer engagement spikes during weekends and holidays
 
-d) Certain directors show a strong correlation with high movie ratings
+# Certain directors show a strong correlation with high movie ratings
 
 
 ## Live Demo
@@ -59,13 +59,23 @@ Temporal Trends
 
 ### Movie List (Synthetic)
 
+![Movie List (Synthetic)](D:\Projects\MovieRatingsDashboard\assets.PNG)
+
 ### Overview
+
+![Overview](D:\Projects\MovieRatingsDashboard\assets.PNG)
 
 ### Ratings by Director
 
+![RAtings by Director](D:\Projects\MovieRatingsDashboard\assets.PNG)
+
 ### Ratings by Genre
 
+![Ratings by Genre](D:\Projects\MovieRatingsDashboard\assets.PNG)
+
 ### Ratings by Year
+
+![Ratings by Year](D:\Projects\MovieRatingsDashboard\assets.PNG)
 
 
 ## Feedback
@@ -74,13 +84,13 @@ Suggestions and improvements are welcome. Feel free to raise issues or submit pu
 ## Status
 Project is actively maintained and open for further analytical enhancements such as:
 
-a) Sentiment analysis of user reviews
+# Sentiment analysis of user reviews
 
-b) Recommendation engine integration
+# Recommendation engine integration
 
-c) Time-series forecasting of ratings trends
+# Time-series forecasting of ratings trends
 
-d) API-driven live movie data integration
+# API-driven live movie data integration
  
     
 
